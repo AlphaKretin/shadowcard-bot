@@ -1,0 +1,10 @@
+{
+	"prefix": ".",
+	"apisource": "https://shadowcard.io/api/search.php",
+	"embed": 2566445,
+	"picsource": "https://images.shadowcard.io/images/cards/",
+	"picext": ".jpg",
+	"dbsource": "https://shadowcard.io/card/",
+	"decksource": "https://shadowcard.io/api/decks/getDecks.php",
+	"deckurl": "https://shadowcard.io/deck/"
+}
